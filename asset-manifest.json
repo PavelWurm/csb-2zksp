@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pavelwurm.github.io/csb-2zksp/static/css/main.4d0a1f04.chunk.css",
+    "main.js": "https://pavelwurm.github.io/csb-2zksp/static/js/main.f667fa8b.chunk.js",
+    "main.js.map": "https://pavelwurm.github.io/csb-2zksp/static/js/main.f667fa8b.chunk.js.map",
+    "runtime-main.js": "https://pavelwurm.github.io/csb-2zksp/static/js/runtime-main.795c97a5.js",
+    "runtime-main.js.map": "https://pavelwurm.github.io/csb-2zksp/static/js/runtime-main.795c97a5.js.map",
+    "static/js/2.4edbf144.chunk.js": "https://pavelwurm.github.io/csb-2zksp/static/js/2.4edbf144.chunk.js",
+    "static/js/2.4edbf144.chunk.js.map": "https://pavelwurm.github.io/csb-2zksp/static/js/2.4edbf144.chunk.js.map",
+    "index.html": "https://pavelwurm.github.io/csb-2zksp/index.html",
+    "static/css/main.4d0a1f04.chunk.css.map": "https://pavelwurm.github.io/csb-2zksp/static/css/main.4d0a1f04.chunk.css.map",
+    "static/js/2.4edbf144.chunk.js.LICENSE.txt": "https://pavelwurm.github.io/csb-2zksp/static/js/2.4edbf144.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.795c97a5.js",
+    "static/js/2.4edbf144.chunk.js",
+    "static/css/main.4d0a1f04.chunk.css",
+    "static/js/main.f667fa8b.chunk.js"
+  ]
+}
